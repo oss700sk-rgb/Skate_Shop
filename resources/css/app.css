@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===== Mis estilos (Skate Shop) ===== */
+
+/* Fondo de todas las páginas */
+.fondo-skate {
+    background-color: #f4ecd8;
+}
+
+/* Barra de arriba  */
+.menu-skate {
+    background-color: #ffd400;
+    border-bottom: 4px solid #111;
+}
+
+/* Cajas de contenido */
+.caja-skate {
+    background-color: #fff;
+    border: 3px solid #111;
+    box-shadow: 6px 6px 0 #111;
+}
+
+/* Letra tipo marcador para los títulos */
+.letra-skate {
+    font-family: 'Permanent Marker', cursive;
+}
+/* Tarjetas de productos */
+.tarjeta-simple {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
